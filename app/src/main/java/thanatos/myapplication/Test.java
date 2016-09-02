@@ -11,7 +11,7 @@ public class Test {
         System.out.println("456");
     }
 
-    private static void two(){
+    private static void tw(){
         System.out.println("123");
         System.out.println(789);
 
