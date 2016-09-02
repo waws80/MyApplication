@@ -11,11 +11,6 @@ public class Test {
         System.out.println("456");
     }
 
-    private static void one(){
-        System.out.println("123");
-        System.out.println(789);
-        System.out.println("456");
-    }
     private static void two(){
         System.out.println("123");
         System.out.println(789);
